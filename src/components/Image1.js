@@ -4,7 +4,7 @@ import One from '../img/1.png';
 const image1 = () => (
     <Parallax className="image"  bgImage={One} strength={300}>
         <div className='content'>
-            <h2>WELCOME AND HAVE A GREAT DAY !</h2>
+            <h2>WELCOME AND HAVE A LOVELY DAY !</h2>
         </div>
     </Parallax>
 );
