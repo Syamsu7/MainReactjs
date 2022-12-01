@@ -11,7 +11,7 @@ import { FaNpm } from "react-icons/fa";
 const footer = () => {
     return(
         <div className='footer'>
-            <h3>These are what am i using so far .</h3>
+            <h3>These are what am i using so far</h3>
             <ul>
                 <li><a href="https://id.wikipedia.org/wiki/HTML"><FaHtml5 /></a></li>
                 <li><a href="https://en.wikipedia.org/wiki/CSS"><FaCss3Alt /></a></li>

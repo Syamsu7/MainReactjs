@@ -239,6 +239,8 @@ p{
     font-size: 90px;
     padding: 15px;
     transition: 1s;
+    margin-top: 100px;
+    margin-bottom: 100px;
   }
   .content {
     display: flex;
@@ -289,9 +291,11 @@ p{
   .image2 .content2 h1{
     text-align: center;
     color: white;
-    font-size: 55px;
-    padding: 20px;
+    font-size: 59px;
+    padding: 25px;
     transition: 1s;
+    margin-top: 100px;
+    margin-bottom: 100px;
   }
 } 
 
@@ -311,6 +315,8 @@ p{
     font-size: 80px;
     padding: 20px;
     transition: 1s;
+    margin-top: 100px;
+    margin-bottom: 100px;
   }
   .text-box ul{
 		display: flex;
@@ -331,9 +337,11 @@ p{
   .image2 .content2 h1{
     text-align: center;
     color: white;
-    font-size: 41px;
+    font-size: 59px;
     padding: 25px;
     transition: 1s;
+    margin-top: 100px;
+    margin-bottom: 100px;
   }
   .content {
     display: flex;

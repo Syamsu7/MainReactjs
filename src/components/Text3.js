@@ -9,7 +9,7 @@ const Text3 = () => {
                 that the efforts that we did aren't gonna be rubbish, you are gonna reach your goal also mates as soon as possible, because
                 nothing is too late or fast, everything is just gonna be given in the proper time.
             </p>
-            <h3>Just enjoying to see my portfolios below.</h3>
+            <h3>Just enjoying to see my portfolios below</h3>
         </div>
     )
 }
