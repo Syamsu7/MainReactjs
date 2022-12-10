@@ -16,6 +16,7 @@ code {
 .image {
   position: relative;
   height: 100vh;
+  width: 100%;
   background-color: rgb(92, 92, 94);
 
 }
@@ -59,7 +60,7 @@ code {
   justify-content: center;
   position: absolute;
   height: 100vh;
-  width: 100vh;
+  width: 50%;
 }
 
 .content h2 {
@@ -257,7 +258,7 @@ p{
   .image .content h2{
     transition: .40s;
     font-size: 20px;
-    margin-top: -270px;
+    margin-top: -300px;
   }
 	.text-box ul li {
     font-size: 30px;
@@ -324,20 +325,31 @@ p{
 	}
 	.text-box ul li {
 		flex-grow: 1;
-    font-size: 30px;
+    font-size: 40px;
+    margin: 0px;
 	}
   #img{
     padding: 15px;
     height: 350px;
     background-color:white;
   }
+  .footer ul{
+		display: flex;
+		flex-direction: column;
+	}
+	.footer ul li{
+		flex-grow: 1;
+    font-size: 45px;
+    padding: 0px;
+    margin: 0px;
+	}
 }
 
 @media screen and (max-width: 414px) {
   .image2 .content2 h1{
     text-align: center;
     color: white;
-    font-size: 59px;
+    font-size: 55px;
     padding: 25px;
     transition: 1s;
     margin-top: 100px;
@@ -369,22 +381,6 @@ p{
     padding: 15px;
     height: 250px;
     background-color:white;
-  }
-  .foter ul{
-		display: flex;
-		flex-direction: column;
-	}
-	.footer ul li {
-		flex-grow: 1;
-    font-size: 40px;
-	}
-  .footer ul li a {
-    padding: 10px ;
-    display: inline-block;
-    text-align: center;
-    text-decoration: none;
-    transition: .40s;
-    color: rgb(252, 248, 248);
   }
   .footer h3{
     margin-top: 40px;
