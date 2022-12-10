@@ -240,8 +240,8 @@ p{
     font-size: 90px;
     padding: 15px;
     transition: 1s;
-    margin-top: 90px;
-    margin-bottom: 0px;
+    margin-top: 95px;
+    margin-bottom: 95px;
   }
   .content {
     display: flex;
@@ -261,7 +261,8 @@ p{
     margin-top: -300px;
   }
 	.text-box ul li {
-    font-size: 30px;
+    font-size: 40px;
+    margin: 0px;
 	}
   #img{
     padding: 15px;
@@ -295,8 +296,8 @@ p{
     font-size: 59px;
     padding: 25px;
     transition: 1s;
-    margin-top: 90px;
-    margin-bottom: 90px;
+    margin-top: 95px;
+    margin-bottom: 95px;
   }
 } 
 
@@ -316,8 +317,8 @@ p{
     font-size: 80px;
     padding: 20px;
     transition: 1s;
-    margin-top: 90px;
-    margin-bottom: 90px;
+    margin-top: 95px;
+    margin-bottom: 95px;
   }
   .text-box ul{
 		display: flex;
@@ -352,8 +353,8 @@ p{
     font-size: 50px;
     padding: 25px;
     transition: 1s;
-    margin-top: 90px;
-    margin-bottom: 90px;
+    margin-top: 95px;
+    margin-bottom: 95px;
   }
   .content {
     display: flex;
@@ -375,7 +376,8 @@ p{
 	}
 	.text-box ul li {
 		flex-grow: 1;
-    font-size: 35px;
+    font-size: 40px;
+    margin: 0px;
 	}
   .footer ul{
 		display: flex;
@@ -383,7 +385,7 @@ p{
 	}
 	.footer ul li{
 		flex-grow: 1;
-    font-size: 35px;
+    font-size: 40px;
     padding: 0px;
     margin: 0px;
 	}
