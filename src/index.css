@@ -89,6 +89,7 @@ p{
   font-size: 13px;
   background-color: rgb(92, 92, 94);
   color: white;
+  margin-bottom: -50px;
 }
 
 .text-box ul {
@@ -164,6 +165,7 @@ p{
   padding: 50px;
   font-size: 13px;
   background-color: rgb(92, 92, 94);
+  margin-bottom: -50px;
 }
 
 .footer {
