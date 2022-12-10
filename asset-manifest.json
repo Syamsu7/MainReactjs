@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MainReactjs/static/css/main.ab030ec8.css",
-    "main.js": "/MainReactjs/static/js/main.5c127840.js",
+    "main.css": "/MainReactjs/static/css/main.e5d7831b.css",
+    "main.js": "/MainReactjs/static/js/main.6fef8a4f.js",
     "static/media/11.png": "/MainReactjs/static/media/11.92c351813d85477504b5.png",
     "static/media/15.png": "/MainReactjs/static/media/15.188503c6e67fdf9c5932.png",
     "static/media/13.png": "/MainReactjs/static/media/13.5f9326e71cec3123ce49.png",
@@ -10,11 +10,11 @@
     "static/media/2.png": "/MainReactjs/static/media/2.14f992f5f6b8975937b9.png",
     "static/media/14.png": "/MainReactjs/static/media/14.18db8f7589e7b73869cf.png",
     "index.html": "/MainReactjs/index.html",
-    "main.ab030ec8.css.map": "/MainReactjs/static/css/main.ab030ec8.css.map",
-    "main.5c127840.js.map": "/MainReactjs/static/js/main.5c127840.js.map"
+    "main.e5d7831b.css.map": "/MainReactjs/static/css/main.e5d7831b.css.map",
+    "main.6fef8a4f.js.map": "/MainReactjs/static/js/main.6fef8a4f.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab030ec8.css",
-    "static/js/main.5c127840.js"
+    "static/css/main.e5d7831b.css",
+    "static/js/main.6fef8a4f.js"
   ]
 }
