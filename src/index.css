@@ -130,6 +130,15 @@ p{
   transform: scale(1) translateY(-3px);
 }
 
+.YouTube{
+  text-align: center;
+  background-color: rgb(92, 92, 94);
+}
+
+iframe{
+  margin: 50px;
+}
+
 .footer ul {
   float: center;
   text-align: center;
@@ -251,6 +260,9 @@ p{
     position: absolute;
     width: 100%;
   }
+  iframe{
+    width: 300px;
+  }
   .image {
     position: relative;
     text-align: center;
@@ -321,6 +333,9 @@ p{
     transition: 1s;
     margin-top: 95px;
     margin-bottom: 95px;
+  }
+  iframe{
+    width: 230px;
   }
   .text-box ul{
 		display: flex;
